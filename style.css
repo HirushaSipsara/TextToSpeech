@@ -85,7 +85,7 @@ input[type="range"]::-webkit-slider-thumb:hover {
 }
 
 input[type="range"]:hover {
-    background: linear-gradient(135deg, #8c57c9, #c94e4e);
+    background: linear-gradient(135deg, #8c57c9, #52faa6);
 }
 
   
