@@ -91,3 +91,4 @@ speakBtn.addEventListener('click', speakText);
 pauseBtn.addEventListener('click', pauseText);
 resumeBtn.addEventListener('click', resumeText);
 stopBtn.addEventListener('click', stopText);
+
